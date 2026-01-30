@@ -27,14 +27,10 @@ Simple UI to input weather data and get predictions.
 🛠️ Tech Stack
 -----------------
 
-Programming Language: Python
+- Programming Language: Python
+- Frameworks/Libraries:
+- Django
+- Scikit-learn
+- Pandas, NumPy
+- HTML, CSS (for frontend UI)
 
-Frameworks/Libraries:
-
-Django
-
-Scikit-learn
-
-Pandas, NumPy
-
-HTML, CSS (for frontend UI)
