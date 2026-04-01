@@ -119,7 +119,7 @@ http://127.0.0.1:8000/
 
 ## 👨‍💻 Author
 
-**Suyash Singh**  
+**Suyash Singh**  And Collab With **Ankit Verma**
 B.Tech CSE | Machine Learning & Web Development Enthusiast  
 
 🔗 GitHub: https://github.com/suyXcode
