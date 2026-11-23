@@ -24,6 +24,12 @@ The Rainfall Prediction Project is designed to help users forecast rainfall base
 
 ---
 
+## System architecture
+
+![](rpf.png)
+
+---
+
 ## 🛠️ Tech Stack
 
 - **Programming Language:** Python  
